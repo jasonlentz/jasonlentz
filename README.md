@@ -1,47 +1,41 @@
 ## Hi there 👋
 
-<!--
-**jasonlentz/jasonlentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Jason Lentz
 
-Developer, builder, tinkerer. Working on MUDs, web tools, and whatever else seems interesting.
 
 ---
 
 ## Projects
 
-### 🧙 XanthMUD
+### 🧙 [XanthMUD](https://github.com/jasonlentz/xanthmud)
 *C · Private*
 
 A text-based MUD server themed around Piers Anthony's Xanth universe. Built on Dead Souls 3.9 / FluffOS, hosted on AWS EC2 with EFS-backed persistent storage and GitHub Actions auto-deploy.
 
-### 🔍 xanthmud-linter
+### 🔍 [xanthmud-linter](https://github.com/jasonlentz/xanthmud-linter)
 *Python · Private*
 
 A static syntax checker for LPC source files used in XanthMUD. Catches unmatched braces, parentheses, mapping syntax errors, missing semicolons, and Dead Souls-specific function name typos. Integrates with GitHub Actions to block deploys on broken LPC.
 
-### 🎸 les-spatules
+### 🎸 [les-spatules](https://github.com/jasonlentz/les-spatules)
 *Python · Private*
 
-Web scraper for searching musical instruments across multiple online sources.
-
-### 🌐 westpole.net
+### 🌐 [westpole.net](https://github.com/jasonlentz/westpole.net)
 *HTML · Private*
 
 Personal website.
 
-### 🛠 gam-tools
+### 🛠 [gam-tools](https://github.com/jasonlentz/gam-tools)
 *Shell · Private*
 
-Google Account Manager tooling and shell utilities.
+GAM Tools - Google Workspace - Google Apps Manager tooling and shell utilities.
 
-### 💬 whatwoulddavesay
+### 💬 [whatwoulddavesay](https://github.com/jasonlentz/whatwoulddavesay)
 *Private*
 
 What would Dave say?
 
-### 🗂 rub
+### 🗂 [rub](https://github.com/jasonlentz/rub)
 *Private*
 
 ---
