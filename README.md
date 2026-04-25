@@ -16,7 +16,7 @@ GAM Tools - Google Workspace - Google Apps Manager tooling and shell utilities.
 *Python · Private*
 
 ### 🌐 [westpole.net](https://github.com/jasonlentz/tmi2deadsouls)
-*HTML · Private*
+*Python · Private*
 
 TMI to Dead Souls mudlib conversion tool.
 
