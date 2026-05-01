@@ -7,6 +7,11 @@
 
 ## Projects
 
+### 🛠 [dmarc2english](https://github.com/jasonlentz/dmarc2english)
+*Shell · Private*
+
+DMARC to English - Make DMARC email notiications helpful
+
 ### 🛠 [gam-tools](https://github.com/jasonlentz/gam-tools)
 *Shell · Private*
 
@@ -15,15 +20,15 @@ GAM Tools - Google Workspace - Google Apps Manager tooling and shell utilities.
 ### 🎸 [les-spatules](https://github.com/jasonlentz/les-spatules)
 *Python · Private*
 
-### 🌐 [westpole.net](https://github.com/jasonlentz/tmi2deadsouls)
-*Python · Private*
+### 🌐 [tmi2deadsouls](https://github.com/jasonlentz/tmi2deadsouls)
+*Python · Public*
 
 TMI to Dead Souls mudlib conversion tool.
 
 ### 🌐 [westpole.net](https://github.com/jasonlentz/westpole.net)
 *HTML · Private*
 
-Personal website.
+Personal website.  Github Actions for automated deployment.
 
 ### 💬 [whatwoulddavesay](https://github.com/jasonlentz/whatwoulddavesay)
 *Private*
