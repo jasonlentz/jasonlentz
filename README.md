@@ -7,10 +7,10 @@
 
 ## Projects
 
-### 🛠 [dmarc2english](https://github.com/jasonlentz/dmarc2english)
+### 🛠 [dmarc2english](https://github.com/jasonlentz/dmarc-decoder)
 *Shell · Private*
 
-DMARC to English - Make DMARC email notiications helpful
+DMARC Decoder - Make DMARC email notiications helpful
 
 ### 🛠 [gam-tools](https://github.com/jasonlentz/gam-tools)
 *Shell · Private*
