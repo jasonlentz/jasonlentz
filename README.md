@@ -7,7 +7,7 @@
 
 ## Projects
 
-### 🛠 DMARC Decoderh](https://github.com/jasonlentz/dmarc-decoder)
+###  🛠[DDMARC Decodeh](https://github.com/jasonlentz/dmarc-decoder)
 *Bash · AWS · Terraform · Public*
 
 DMARC Decoder - A  self-hosted DMARC aggregate report parser and dashboard, deployable to your own AWS account with a single command.
