@@ -41,10 +41,9 @@ What would Dave say?
 A text-based MUD server themed around Piers Anthony's Xanth universe. Built on Dead Souls 3.9 / FluffOS, hosted on AWS EC2 with EFS-backed persistent storage and GitHub Actions auto-deploy for Devs.
 
 ### 🔍 [xanthmud-linter](https://github.com/jasonlentz/xanthmud-linter)
-*Python · Private*
+*Python · Github Action · Public*
 
-A static syntax checker for LPC source files used in XanthMUD. Catches unmatched braces, parentheses, mapping syntax errors, missing semicolons, and Dead Souls-specific function name typos. Integrates with GitHub Actions to block deploys on broken LPC.
-
+A linter for Fluffos / Dead Souls, specifically for Xanth Mud, but is suitable for general availability. CLI or GitHub Actions.
 
 ---
 
