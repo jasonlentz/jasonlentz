@@ -7,13 +7,13 @@
 
 ## Projects
 
-### 🛠 [dmarc2english](https://github.com/jasonlentz/dmarc-decoder)
-*Shell · Private*
+### 🛠 DMARC Decoderh](https://github.com/jasonlentz/dmarc-decoder)
+*Bash · AWS · Terraform · Public*
 
-DMARC Decoder - Make DMARC email notiications helpful
+DMARC Decoder - A  self-hosted DMARC aggregate report parser and dashboard, deployable to your own AWS account with a single command.
 
 ### 🛠 [gam-tools](https://github.com/jasonlentz/gam-tools)
-*Shell · Private*
+*Bash · Private*
 
 GAM Tools - Google Workspace - Google Apps Manager tooling and shell utilities.
 
