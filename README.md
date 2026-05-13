@@ -7,7 +7,7 @@
 
 ## Projects
 
-###  🛠[DDMARC Decodeh](https://github.com/jasonlentz/dmarc-decoder)
+###  🛠 [DMARC Decoder](https://github.com/jasonlentz/dmarc-decoder)
 *Bash · AWS · Terraform · Public*
 
 DMARC Decoder - A  self-hosted DMARC aggregate report parser and dashboard, deployable to your own AWS account with a single command.
@@ -38,7 +38,7 @@ What would Dave say?
 ### 🧙 [XanthMUD](https://github.com/jasonlentz/xanthmud)
 *C · Private*
 
-A text-based MUD server themed around Piers Anthony's Xanth universe. Built on Dead Souls 3.9 / FluffOS, hosted on AWS EC2 with EFS-backed persistent storage and GitHub Actions auto-deploy.
+A text-based MUD server themed around Piers Anthony's Xanth universe. Built on Dead Souls 3.9 / FluffOS, hosted on AWS EC2 with EFS-backed persistent storage and GitHub Actions auto-deploy for Devs.
 
 ### 🔍 [xanthmud-linter](https://github.com/jasonlentz/xanthmud-linter)
 *Python · Private*
